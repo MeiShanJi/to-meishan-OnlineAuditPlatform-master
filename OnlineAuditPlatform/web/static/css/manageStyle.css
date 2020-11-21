@@ -1,0 +1,28 @@
+
+.txtbox {
+    width: 800px;
+    background-color: #EDEEF0;
+    text-align: center;
+    margin-left: 120px;
+}
+.title {
+    background-color: #8590A6;
+
+}
+
+table {
+    width: 800px;
+    border-collapse: collapse;
+    border: 1px solid;
+
+}
+tr {
+    border: 1px solid;
+}
+.submit {
+    width: 800px;
+    margin-left: 120px;
+}
+
+
+
